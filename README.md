@@ -4,7 +4,7 @@
 ## Background:
    I am from India. I did my undergraduation from Jawaharlal Nehru Technological University with Electronics and Communication Engineering as Major. I do not have any prior work experience. I like playing badminton, watching movies.
 ## Plans:
-   After completion of master's I would like to work as a full stack Java developer.
+   After completion of master's, I would like to work as a full stack Java developer.
 ## Links
    [LinkedIn](https://www.linkedin.com/in/vishalreddyvennavaram/)   
    [GitHub](https://github.com/Vishalreddy114)
